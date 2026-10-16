@@ -9,8 +9,10 @@
 
   <ItemGroup>
     <PackageReference Include="Hyperlight.HyperlightSandbox.Api" Version="0.7.0" />
+    <PackageReference Include="Hyperlight.HyperlightSandbox.Extensions.AI" Version="0.7.0" />
     <PackageReference Include="Hyperlight.HyperlightSandbox.Guest.JavaScript" Version="0.7.0" />
     <PackageReference Include="Hyperlight.HyperlightSandbox.Guest.Python" Version="0.7.0" />
+    <PackageReference Include="Hyperlight.HyperlightSandbox.PInvoke" Version="0.7.0" />
   </ItemGroup>
 
 </Project>
