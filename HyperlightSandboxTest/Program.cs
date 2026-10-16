@@ -15,6 +15,8 @@ namespace HyperlightSandboxTest
 
     // Examples
     // https://github.com/hyperlight-dev/hyperlight-sandbox/tree/main/src/sdk/dotnet/core/Examples
+    // https://github.com/hyperlight-dev/hyperlight-sandbox/tree/main/examples/agent-framework
+    // https://github.com/hyperlight-dev/hyperlight-sandbox/tree/main/examples/copilot-sdk
 
     internal class Program
     {
